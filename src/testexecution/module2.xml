@@ -1,0 +1,15 @@
+<suite name="Module 2:HR Management">
+    <test name="SearchProduct Test">
+        <classes>
+            <class name="module2.SearchProduct"></class>
+        </classes>
+    </test>
+    
+    <test name="ChangePassword Test">
+        <classes>
+            <class name="module2.ChangePasswordTest"></class>
+        </classes>
+    </test>
+    
+    
+</suite>

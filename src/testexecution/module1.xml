@@ -1,0 +1,19 @@
+<suite name="Module 1:Payroll Management">
+    <test name="Register Test">
+        <classes>
+            <class name="module1.RegisterTest"></class>
+        </classes>
+    </test>
+    
+    <test name="Login Test">
+        <classes>
+            <class name="module1.LoginTest"></class>
+        </classes>
+    </test>
+    
+    <test name="HTMLElementsTestNG Test">
+        <classes>
+            <class name="module1.HTMLElementsTestNG"></class>
+        </classes>
+    </test>
+</suite>

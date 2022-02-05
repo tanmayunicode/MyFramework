@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28531" started-at="2021-09-30T09:36:35Z" finished-at="2021-09-30T09:37:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28531" started-at="2021-09-30T09:36:35Z" finished-at="2021-09-30T09:37:03Z">
+      <class name="module1.HTMLElementsTestNG">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module1.HTMLElementsTestNG@7823a2f9]" name="launchBrowser" is-config="true" duration-ms="12473" started-at="2021-09-30T15:06:35Z" finished-at="2021-09-30T15:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testHTMLElements()[pri:0, instance:module1.HTMLElementsTestNG@7823a2f9]" name="testHTMLElements" duration-ms="10804" started-at="2021-09-30T15:06:47Z" finished-at="2021-09-30T15:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHTMLElements -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module1.HTMLElementsTestNG@7823a2f9]" name="closeBrowser" is-config="true" duration-ms="5188" started-at="2021-09-30T15:06:58Z" finished-at="2021-09-30T15:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- module1.HTMLElementsTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
